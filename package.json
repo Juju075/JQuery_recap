@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Juju075/JQuery_recap/issues"
   },
-  "homepage": "https://github.com/Juju075/JQuery_recap#readme"
+  "homepage": "https://github.com/Juju075/JQuery_recap#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
 }
