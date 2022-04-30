@@ -3,6 +3,10 @@ function func1() {
   $("#img1").fadeToogle();
 }
 
+/** JQuery alert */
+function test2() {
+  $(body).append("Hello Word");
+}
 
 /** Javascript  */
 function test1() {
@@ -13,3 +17,5 @@ function test1() {
 function myFunction() {
   document.getElementById("demo").innerHTML = "Hello World";
 }
+
+
